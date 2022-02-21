@@ -1,3 +1,10 @@
+# NFT Art Generator with Neural Networks
+-----------------------
+
+`(In Development)`
+
+The NFT Art Generator is a website that uses Deep Learning and Image Preprocessing to generate images, videos and gifs 
+to be used as NFT Art. In the future the website can be used to generate 3D NFTs using Three.js for Metaverse applications.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
